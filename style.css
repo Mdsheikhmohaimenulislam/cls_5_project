@@ -246,6 +246,22 @@ margin-top: 50px;
 
 }
 
+.icon{
+    margin-top: 50px;
+    color:red;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-items: center;
+}
+
+.fa-brands fa-facebook{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-items: center;
+    color: blue;
+}
 
 
 
