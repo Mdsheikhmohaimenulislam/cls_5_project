@@ -156,4 +156,15 @@ background: rgba(82, 195, 3, 0.15);
 .container_info{
     display: flex;
     justify-content: space-between;
+    gap: 15px;
+    justify-content: center;
+}
+
+.btn_info{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
 }
